@@ -1,0 +1,18 @@
+header{
+  color: red;
+  text-align:center;
+  background: rgb(214, 11, 212);
+  margin:200px
+}
+body {
+  background: rgb(21, 191, 174);
+}
+section {
+  background: rgb(7, 177, 214);
+  text-align: center;
+  margin: 200px;
+}
+header, body, section {
+  border-radius: 50px;
+  box-shadow: 50px 10px 10px #888888;
+}
